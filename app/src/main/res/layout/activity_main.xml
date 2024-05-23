@@ -21,7 +21,7 @@
     <TextView
         android:id="@+id/songTitle"
         android:layout_width="match_parent"
-        android:layout_height="41dp"
+        android:layout_height="56dp"
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:text="Song Title"
@@ -30,7 +30,7 @@
 
     <SeekBar
         android:id="@+id/seekBarTime"
-        android:layout_width="349dp"
+        android:layout_width="371dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp" />
